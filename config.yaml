@@ -1,0 +1,30 @@
+cookie:
+  expiry_days: 30
+  key: my_secret_key
+  name: VyomAI_session
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: admin
+      password: $2b$12$jpyxlmYQweHrEIFZU5SMA.HhCqciXFtzx1qVTGSP2cemVLyncqPky
+    ankit:
+      email: ankit@hp.in
+      name: ankit
+      password: $2b$12$mlRifaJnH8jfZtD6OcaqKOAMOXwewl0AiYbME3veqh9ExQfpqkl2S
+    deep:
+      email: dd@cc
+      name: Deep Chakraborty
+      password: $2b$12$uDqfxNgAw..o3VocwHXQWObcfLnmR8sOuEVkcMD4aogtNo4Qwea5e
+    dip:
+      email: diptanshu@cha.khache
+      name: Diptanshu Ghosh
+      password: $2b$12$BB8.ENv1yr4adQ6/enqyReB8.q6r4XPxRdOhb1.qe4zKZy5VoYJf2
+    shubh:
+      email: shubhamgupta15m@gmail.com
+      name: Shubham Gupta
+      password: $2b$12$i8mz1.ISAcjgvHLFUE4EB.cv/yW0IqNoAwbTNvizF3MAdFFVs9NRS
+    user:
+      email: user@example.com
+      name: user
+      password: $2b$12$N1A35VMplLive.NlTBWu6e.TkurpptkxubQpWWCn/fl0v4rpJcyXa
